@@ -1,0 +1,20 @@
+[[Arrow]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "13f8dee016e5d2f5cebdb0bc58117633e610614b"
+libc = "glibc"
+os = "linux"
+
+    [[Arrow.download]]
+    sha256 = "ee48f950b1b7542570d2ae565d8c0d2c6627d3b9c3d210beb768444773e14bff"
+    url = "https://github.com/maccam912/Arrow_jll.jl/releases/download/Arrow-v1.0.1+0/Arrow.v1.0.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[Arrow]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38cc683b9016c4caeeacef3ca63e455427fcb249"
+libc = "glibc"
+os = "linux"
+
+    [[Arrow.download]]
+    sha256 = "015214c468621659064618c7728886605ee4e86ef04cf609cfc6fd4f10a72bd3"
+    url = "https://github.com/maccam912/Arrow_jll.jl/releases/download/Arrow-v1.0.1+0/Arrow.v1.0.1.x86_64-linux-gnu-cxx11.tar.gz"
